@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Codingal-react-assessment/static/css/main.a8ce69e5.css",
+    "main.js": "/Codingal-react-assessment/static/js/main.d0f1a7d0.js",
+    "static/js/453.827a6246.chunk.js": "/Codingal-react-assessment/static/js/453.827a6246.chunk.js",
+    "static/media/inter-latin-ext-400-normal.woff": "/Codingal-react-assessment/static/media/inter-latin-ext-400-normal.1c20f7dc20d731a18fcd.woff",
+    "static/media/inter-latin-400-normal.woff": "/Codingal-react-assessment/static/media/inter-latin-400-normal.b0c8fe9db56dd415a25a.woff",
+    "static/media/inter-latin-ext-400-normal.woff2": "/Codingal-react-assessment/static/media/inter-latin-ext-400-normal.3d10c85fbd16969509a2.woff2",
+    "static/media/inter-latin-400-normal.woff2": "/Codingal-react-assessment/static/media/inter-latin-400-normal.9698cc7dbf147ed363b6.woff2",
+    "static/media/inter-cyrillic-ext-400-normal.woff": "/Codingal-react-assessment/static/media/inter-cyrillic-ext-400-normal.e89451624c6caf35687f.woff",
+    "static/media/logo_only.png": "/Codingal-react-assessment/static/media/logo_only.c604ca9fb982860f8bf3.png",
+    "static/media/poppins-latin-700-normal.woff": "/Codingal-react-assessment/static/media/poppins-latin-700-normal.cd04c2ad00870c9ceebf.woff",
+    "static/media/inter-cyrillic-ext-400-normal.woff2": "/Codingal-react-assessment/static/media/inter-cyrillic-ext-400-normal.fd1478dcc74de00ee4c0.woff2",
+    "static/media/inter-cyrillic-400-normal.woff": "/Codingal-react-assessment/static/media/inter-cyrillic-400-normal.e2841352dd9512ff455b.woff",
+    "static/media/inter-greek-400-normal.woff": "/Codingal-react-assessment/static/media/inter-greek-400-normal.a42da273bb968bf2058d.woff",
+    "static/media/inter-greek-400-normal.woff2": "/Codingal-react-assessment/static/media/inter-greek-400-normal.a8de720a6f13c66c8a4e.woff2",
+    "static/media/poppins-latin-700-normal.woff2": "/Codingal-react-assessment/static/media/poppins-latin-700-normal.d86662fe776dae29ea78.woff2",
+    "static/media/inter-cyrillic-400-normal.woff2": "/Codingal-react-assessment/static/media/inter-cyrillic-400-normal.cb04b2ee2f7d192478b8.woff2",
+    "static/media/poppins-latin-ext-700-normal.woff": "/Codingal-react-assessment/static/media/poppins-latin-ext-700-normal.0891add22376e17f583d.woff",
+    "static/media/inter-greek-ext-400-normal.woff": "/Codingal-react-assessment/static/media/inter-greek-ext-400-normal.b9e1e89444a313a63b91.woff",
+    "static/media/inter-vietnamese-400-normal.woff": "/Codingal-react-assessment/static/media/inter-vietnamese-400-normal.96f8adc74b63e1a3655f.woff",
+    "static/media/poppins-latin-ext-700-normal.woff2": "/Codingal-react-assessment/static/media/poppins-latin-ext-700-normal.51cc1e159ae5f0b8ec5c.woff2",
+    "static/media/inter-greek-ext-400-normal.woff2": "/Codingal-react-assessment/static/media/inter-greek-ext-400-normal.f2fa0d9ef98f59d4a75b.woff2",
+    "static/media/inter-vietnamese-400-normal.woff2": "/Codingal-react-assessment/static/media/inter-vietnamese-400-normal.44c9df135eec470b0ab6.woff2",
+    "index.html": "/Codingal-react-assessment/index.html",
+    "main.a8ce69e5.css.map": "/Codingal-react-assessment/static/css/main.a8ce69e5.css.map",
+    "main.d0f1a7d0.js.map": "/Codingal-react-assessment/static/js/main.d0f1a7d0.js.map",
+    "453.827a6246.chunk.js.map": "/Codingal-react-assessment/static/js/453.827a6246.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8ce69e5.css",
+    "static/js/main.d0f1a7d0.js"
+  ]
+}
