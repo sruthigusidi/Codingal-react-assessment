@@ -1,6 +1,7 @@
 {
   "name": "codingal-assessment",
   "version": "0.1.0",
+  "homepage": "https://sruthigusidi.github.io/Codingal-react-assessment",
   "private": true,
   "dependencies": {
     "@fontsource/inter": "^5.2.5",
